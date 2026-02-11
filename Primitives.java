@@ -1,9 +1,9 @@
 public class Primitives {
     public static void main(String[] args) {
 
-        int rollno = 169;
+        int rollno = 169;  
         char letter = 'u';
-        float marks = 9.2f;
+        float marks = 9.2f;   
         double largeDecimalNumbers = 986.73683628;
         long largeIntNumbers = 9008402934L;
         boolean check = true;
